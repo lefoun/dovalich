@@ -14,11 +14,11 @@ A few things about me:
 This year I'm going to :
 
 - [ ] Create a small webserver from scratch. (to learn about how the web works at a fundamental level)
-- [ ] Create a small database from scratch. (to learn about how databases work)
+- [ ] Create a small database. (to learn about how databases work)
 - [ ] Contribute to an open source project. (Send me a message if you think I can lend a hand!)
 - [ ] Create a (useful) API.
 - [ ] Deploy a chrome extension.
-- [ ] Create my first website from scratch.
+- [ ] Create a website.
 - [ ] Learn about docker.
 - [ ] Learn about CI/CD.
 
