@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Noufel 👨‍🎓 currently studying Computer Science at [School 42](https://42.fr/en/homepage/).
+Currently studying Computer Science at [School 42](https://42.fr/en/homepage/).
 
 A few things about me:
 
